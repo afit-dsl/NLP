@@ -1,8 +1,4 @@
 
-# TEXT CLASSIFICATION - Performance evaluation
-# Updated: April 24, 2018
-# Version: V1 (for review, not for further circulation)
-# Author: Jochen Hartmann, Hamburg University
 
 # Initialize session ------------------------------------------------------
 
